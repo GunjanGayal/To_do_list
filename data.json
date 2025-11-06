@@ -1,7 +1,27 @@
 [
   {
-    "description": "kjhkj",
-    "responsible": "kjn",
-    "eta": "2025-11-05"
+    "description": "Scheduling meetings",
+    "responsible": "neha",
+    "eta": "2025-09-26"
+  },
+  {
+    "description": "Creating a presentation",
+    "responsible": "Mohit",
+    "eta": "2025-10-08"
+  },
+  {
+    "description": "Designing the website",
+    "responsible": "Gunjan",
+    "eta": "2025-10-30"
+  },
+  {
+    "description": "Hosting the website",
+    "responsible": "Himani",
+    "eta": "2025-11-06"
+  },
+  {
+    "description": "Deploy",
+    "responsible": "karan",
+    "eta": "2025-11-21"
   }
 ]
